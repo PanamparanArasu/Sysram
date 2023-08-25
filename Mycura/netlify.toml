@@ -1,4 +1,6 @@
-[[redirects]]
-from="/*"
-to="/index.html"
-status=200
+[build]
+command = "npm run build"  # Replace with your build command
+publish = "dist"  # Replace with the build output directory
+
+[build.publish]
+directory = "C:\Users\siddharth.s\Documents\MyCura.com\Mycura"
