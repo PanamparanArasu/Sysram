@@ -498,6 +498,7 @@ img{
   font-size: var(--h2-font-size);
   color: var(--title-color);
   margin-bottom: var(--mb-2);
+  display : grid;
 }
 
 .footer__link{
