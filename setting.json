@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.enableGzip": true,
+    "liveServer.settings.useBrowserPreview": true,
+    "liveServer.settings.useScrollTop": true,
+    "liveServer.settings.settingsPerWorkspace": true,
+    "liveServer.settings.port": 5500
+}
